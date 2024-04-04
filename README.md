@@ -6,7 +6,7 @@ This is a simple php project to create beautiful webpages from markdown (.md) fi
 
 To install the tool, you only need to clone the repository with:
 
-```terminal
+```console
 git clone https://github.com/GermnGodoy/php-markdown
 ```
 
@@ -16,7 +16,7 @@ And you will get a directory with an `index.php` file that contains the tool, an
 
 In order to use the tool, you just need to go to the root of the directory, and execute:
 
-```terminal
+```console
 php -S localhost:<port>
 ```
 
